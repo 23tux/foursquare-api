@@ -67,5 +67,9 @@ module Foursquare
 
       perform_graph_request("venues/#{venue_id}/proposeedit", params, "post")
     end
+    
+    def lookup(venue_id, params={})
+      perform_graph_request("venues/#{venue_id}", params)
+    end
   end
 end

@@ -90,7 +90,7 @@ venue.search({:ll => "37.792694,-122.409325"})
 * marktodo
 * flag
 * proposeedit
-
+* lookup(venue_id)
 
 = Contributing to foursquare-api
  
@@ -101,4 +101,7 @@ venue.search({:ll => "37.792694,-122.409325"})
 
 Copyright (c) 2011 Ronald Wan. See LICENSE.txt for
 further details.
+
+= Contributor
+Hubert Hoelzl, fork on github
 
