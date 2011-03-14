@@ -17,15 +17,6 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    ".document",
-    ".idea/.rakeTasks",
-    ".idea/dictionaries/ronaldw.xml",
-    ".idea/encodings.xml",
-    ".idea/foursquare-api.iml",
-    ".idea/misc.xml",
-    ".idea/modules.xml",
-    ".idea/vcs.xml",
-    ".idea/workspace.xml",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
@@ -33,7 +24,6 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "foursquare-api.gemspec",
-    "lib/.DS_Store",
     "lib/foursquare.rb",
     "lib/foursquare_checkins.rb",
     "lib/foursquare_node.rb",
